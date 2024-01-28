@@ -15,3 +15,8 @@ I enjoy playing games, recording, or streaming on YouTube
 `Python ` - 38% \
 `Linux maintaining ` - 64% \
 `Windows maintaining ` - 82%
+
+## My websites
+
+http://neznamey.lol (im working on)
+https://wharesquare.eu
