@@ -18,5 +18,5 @@ I enjoy playing games, recording, or streaming on YouTube
 
 ## My websites
 
-http://neznamey.lol (im working on)
+http://neznamey.lol (im working on) \
 https://wharesquare.eu
