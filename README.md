@@ -18,9 +18,7 @@ I enjoy playing games, recording, or streaming on YouTube
 
 ## My websites
 
-https://vietcong.ddns.net (web about vietcong 1) \
-https://neznamey.lol (im working on) \
+https://floxen.lol (my ranked coop website) \
 https://wharesquare.eu (my vietcong community) \
-https://coop.wharesquare.eu (my coop server stats) \
-https://nejsem.online (my friends website i host) \
-https://floxen.lol (im working on too)
+https://nejsem.online (my friends website i host)
+
