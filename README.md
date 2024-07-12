@@ -1,4 +1,4 @@
-# 👋 Ahoj, já jsem Floxxxen!
+# 👋 Ahoj, já jsem Yung RiXXXi!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programmer+from+Czech+Republic;C%23+Developer;Web+Enthusiast)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@ Jsem nadšený programátor z České republiky. Rád tvořím různé aplikace,
 
 ## 📫 Kontakt
 
-- Email: ten.neznamey@seznam.cz
+- Email: yungrixxxi@seznam.cz
 - [Instagram](https://instagram.com/yung.ricci)
 
 ## 🌱 Co mě baví
