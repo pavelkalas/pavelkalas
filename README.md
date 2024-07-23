@@ -1,4 +1,4 @@
-# 👋 Ahoj, já jsem Yung RiXXXi!
+# 👋 Ahoj, já jsem Pavel!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programmer+from+Czech+Republic;C%23+Developer;Web+Enthusiast)](https://git.io/typing-svg)
 
