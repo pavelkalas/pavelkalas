@@ -1,27 +1,38 @@
-# 👋 Ahoj, já jsem Pavel!
+# 👋 Ahoj, já jsem Pavel Kalaš!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programmer+from+Czech+Republic;C%23+Developer;Web+Enthusiast)](https://git.io/typing-svg)
+Jsem 18letý nadšený programátor z města Poděbrady v České republice. Aktuálně absolvuji kurz na [itnetwork.cz](https://itnetwork.cz) zaměřený na jazyk C#. Rád se věnuji tvorbě aplikací a webových stránek, ať už pro jiné, nebo jen tak z nudy. V současnosti se také soustředím na své vlastní mini projekty.
 
-Jsem nadšený programátor z České republiky. Rád tvořím různé aplikace, ať už pro někoho nebo jen tak z nudy. Pracuji také na svých vlastních mini projektech.
+## 🛠️ Technologie a nástroje
 
-## 🔧 Technologie a nástroje
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-## 📫 Kontakt
-
-- Email: yungrixxxi@seznam.cz
-- [Instagram](https://instagram.com/yung.ricci)
+- **C#** – Hlavní jazyk, který aktuálně studuji a používám pro vývoj aplikací.
+- **HTML5** – Používám pro tvorbu struktury webových stránek.
+- **CSS3** – Styly a design webových stránek.
+- **JavaScript** – Interaktivní prvky a funkce na webu.
+- **PHP** – Serverový jazyk pro dynamické webové stránky.
 
 ## 🌱 Co mě baví
 
-- Vývoj aplikací v C#
-- Tvorba webových stránek pomocí HTML, CSS, JavaScript a PHP
-- Práce na vlastních mini projektech
-- Učení se novým technologiím a postupům
+- **Vývoj aplikací v C#** – Tvoření desktopových a webových aplikací.
+- **Tvorba webových stránek** – Používám HTML, CSS, JavaScript a PHP pro návrh a realizaci webových projektů.
+- **Práce na vlastních mini projektech** – Experimentování s novými nápady a technologiemi.
+- **Učení se novým technologiím a postupům** – Neustálé zlepšování a rozšiřování znalostí.
 
-Díky, že jsi navštívil můj profil! Pokud máš nějaké otázky nebo se chceš spojit nebo vytvořit něco COOL, neváhej mě kontaktovat. 😊
+## 📫 Kontakt
+
+- **Email**: [yungrixxxi@seznam.cz](mailto:yungrixxxi@seznam.cz)
+
+Díky, že jsi navštívil můj profil! Pokud máš nějaké otázky, chceš se spojit, nebo máš nápad na zajímavý projekt, neváhej mě kontaktovat. 😊
+
+---
+
+### 📈 Moje dovednosti
+
+![C#](https://img.shields.io/badge/C%23-%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+**Jsem otevřený novým výzvám a příležitostem, tak se neváhej ozvat!** 🚀
