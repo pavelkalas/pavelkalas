@@ -1,38 +1,49 @@
-# 👋 Ahoj, já jsem Pavel Kalaš!
+# 👋 Hi, I'm Pavel Kalaš!
 
-Jsem 18letý nadšený programátor z města Poděbrady v České republice. Aktuálně absolvuji kurz na [itnetwork.cz](https://itnetwork.cz) zaměřený na jazyk C#. Rád se věnuji tvorbě aplikací a webových stránek, ať už pro jiné, nebo jen tak z nudy. V současnosti se také soustředím na své vlastní mini projekty.
+I'm an **18-year-old software developer** from Poděbrady, Czech Republic, with a passion for building applications and websites. I'm currently enrolled in a C# course on [itnetwork.cz](https://itnetwork.cz), where I am honing my skills in application development. Besides my formal studies, I enjoy working on personal projects, exploring new technologies, and constantly improving my craft.
 
-## 🛠️ Technologie a nástroje
+---
 
-- **C#** – Hlavní jazyk, který aktuálně studuji a používám pro vývoj aplikací.
-- **HTML5** – Používám pro tvorbu struktury webových stránek.
-- **CSS3** – Styly a design webových stránek.
-- **JavaScript** – Interaktivní prvky a funkce na webu.
-- **PHP** – Serverový jazyk pro dynamické webové stránky.
+## 🛠️ Technologies & Tools
 
-## 🌱 Co mě baví
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-%23-00599C?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</div>
 
-- **Vývoj aplikací v C#** – Tvoření desktopových a webových aplikací.
-- **Tvorba webových stránek** – Používám HTML, CSS, JavaScript a PHP pro návrh a realizaci webových projektů.
-- **Práce na vlastních mini projektech** – Experimentování s novými nápady a technologiemi.
-- **Učení se novým technologiím a postupům** – Neustálé zlepšování a rozšiřování znalostí.
+### 🌟 Most Used Languages
 
-## 📫 Kontakt
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelkalas&layout=compact&theme=radical)
+
+---
+
+## 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavelkalas&show_icons=true&theme=radical" alt="Pavel's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavelkalas&theme=radical" alt="Pavel's GitHub Streak">
+</div>
+
+---
+
+## 🌱 What I Enjoy
+
+- **Developing Applications in C#** – I love creating both desktop and web applications using C#.
+- **Building Websites** – Designing and implementing web projects using HTML, CSS, JavaScript, and PHP is something I’m truly passionate about.
+- **Working on Personal Projects** – I’m always experimenting with new ideas and technologies.
+- **Learning New Technologies** – I’m committed to continuous improvement and expanding my skill set.
+
+---
+
+## 📫 Let's Connect
 
 - **Email**: [yungrixxxi@seznam.cz](mailto:yungrixxxi@seznam.cz)
 
-Díky, že jsi navštívil můj profil! Pokud máš nějaké otázky, chceš se spojit, nebo máš nápad na zajímavý projekt, neváhej mě kontaktovat. 😊
+Thank you for visiting my profile! If you have any questions, want to collaborate, or have an exciting project idea, feel free to reach out. 😊
 
 ---
 
-### 📈 Moje dovednosti
-
-![C#](https://img.shields.io/badge/C%23-%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-**Jsem otevřený novým výzvám a příležitostem, tak se neváhej ozvat!** 🚀
+**I'm open to new challenges and opportunities, so don't hesitate to get in touch!** 🚀
