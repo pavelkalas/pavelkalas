@@ -1,40 +1,45 @@
 # 👋 Hi, I'm Pavel Kalaš!
 
-I'm an **18-year-old software developer** from Poděbrady, Czech Republic, with a passion for building applications and websites. I'm currently enrolled in a C# course on [itnetwork.cz](https://itnetwork.cz), where I am honing my skills in application development. Besides my formal studies, I enjoy working on personal projects, exploring new technologies, and constantly improving my craft.
+I'm an **18-year-old software developer** from Poděbrady, Czech Republic, with a strong focus on building applications and websites. Currently, I am advancing my skills in C# through a course on [itnetwork.cz](https://itnetwork.cz). I’m passionate about experimenting with new technologies and developing innovative projects.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-%23-00599C?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</div>
-
-### 🌟 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelkalas&layout=compact&theme=radical)
+- ![C#](https://img.shields.io/badge/C%23-%23-00599C?style=for-the-badge&logo=csharp&logoColor=white) **C#** - My primary language for application development.
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML5** - Essential for creating the structure of websites.
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS3** - Enables me to design visually appealing sites.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript** - Adds interactivity and dynamic functionality to websites.
+- ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white) **PHP** - My go-to for server-side scripting and dynamic web pages.
 
 ---
 
 ## 📈 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavelkalas&show_icons=true&theme=radical" alt="Pavel's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavelkalas&theme=radical" alt="Pavel's GitHub Streak">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelkalas&layout=compact&theme=radical&hide=css,html" alt="Top Languages" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavelkalas&show_icons=true&theme=radical" alt="GitHub Stats" height="160px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavelkalas&theme=radical" alt="GitHub Streak" height="160px">
 </div>
+
+---
+
+## 🌟 Latest Projects
+
+Here are some of my latest projects:
+
+- [McGuard](https://github.com/pavelkalas/mcguard) - Enhanced minecraft server management system (currently available only for Windows).
+- [VcComHub](https://github.com/pavelkalas/vccomhub) - Vietcong 1 game connector to multiplayer, also when is GameSpy masterserver down.
+- [FusionSSH](https://github.com/pavelkalas/fusion-ssh) - Simple SSH client.
 
 ---
 
 ## 🌱 What I Enjoy
 
-- **Developing Applications in C#** – I love creating both desktop and web applications using C#.
-- **Building Websites** – Designing and implementing web projects using HTML, CSS, JavaScript, and PHP is something I’m truly passionate about.
-- **Working on Personal Projects** – I’m always experimenting with new ideas and technologies.
-- **Learning New Technologies** – I’m committed to continuous improvement and expanding my skill set.
+- **Developing Applications in C#** – Creating both desktop and web applications using C#.
+- **Building Websites** – Designing and implementing web projects using HTML, CSS, JavaScript, and PHP.
+- **Working on Personal Projects** – Always experimenting with new ideas and technologies.
+- **Learning New Technologies** – Committed to continuous improvement and expanding my skill set.
 
 ---
 
