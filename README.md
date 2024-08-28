@@ -51,7 +51,7 @@ I'm an **18-year-old software developer** from Poděbrady, Czech Republic, with 
     <tr>
       <td align="center">
         <p>Cybersecurity</p>
-        <img src="[https://github.com/pavelkalas/pavelkalas/blob/main/CSHARP_BASICS.png](https://github.com/pavelkalas/pavelkalas/blob/main/CYBERSECURITY_CERTIFICATE.png)" alt="Cybersecurity" width="400"/>
+        <img src="https://github.com/pavelkalas/pavelkalas/blob/main/CYBERSECURITY_CERTIFICATE.png" alt="Cybersecurity" width="400"/>
       </td>
     </tr>
   </table>
