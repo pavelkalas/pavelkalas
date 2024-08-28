@@ -24,6 +24,35 @@ I'm an **18-year-old software developer** from Poděbrady, Czech Republic, with 
 
 ---
 
+## My certificates
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <p>Basics of C#</p>
+        <img src="https://github.com/pavelkalas/pavelkalas/blob/main/CSHARP_BASICS.png" alt="Basics of C#" width="400"/>
+      </td>
+      <td align="center">
+        <p>Oriented object programming in C#</p>
+        <img src="https://github.com/pavelkalas/pavelkalas/blob/main/OOP_CSHARP_CERTIFIKAT.png" alt="OOP in C#" width="400"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p>LINQ & Collections in C#</p>
+        <img src="https://github.com/pavelkalas/pavelkalas/blob/main/LINQ_AND_COLECTIONS_CSHARP.png" alt="LINQ and Collections in C#" width="400"/>
+      </td>
+      <td align="center">
+        <p>Modern webdesign</p>
+        <img src="https://github.com/pavelkalas/pavelkalas/blob/main/MODERN_WEBDESIGN.png" alt="Certificate for Modern website design" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🌟 Latest Projects
 
 Here are some of my latest projects:
