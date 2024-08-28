@@ -34,7 +34,7 @@ I'm an **18-year-old software developer** from Poděbrady, Czech Republic, with 
         <img src="https://github.com/pavelkalas/pavelkalas/blob/main/CSHARP_BASICS.png" alt="Basics of C#" width="400"/>
       </td>
       <td align="center">
-        <p>Oriented object programming in C#</p>
+        <p>Object Oriented programming in C#</p>
         <img src="https://github.com/pavelkalas/pavelkalas/blob/main/OOP_CSHARP_CERTIFIKAT.png" alt="OOP in C#" width="400"/>
       </td>
     </tr>
