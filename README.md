@@ -80,7 +80,7 @@ Here are some of my latest projects:
 
 ## 📫 Let's Connect
 
-- **Email**: [yungrixxxi@seznam.cz](mailto:yungrixxxi@seznam.cz)
+- **Email**: [pavelkalas2048@seznam.cz](mailto:pavelkalas2048@seznam.cz)
 
 Thank you for visiting my profile! If you have any questions, want to collaborate, or have an exciting project idea, feel free to reach out. 😊
 
