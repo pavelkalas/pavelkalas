@@ -89,10 +89,4 @@ Thank you for visiting my profile! If you have any questions, want to collaborat
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Thank you!" width="200"/>
-</div>
-
----
-
 **I'm open to new challenges and opportunities, so don't hesitate to get in touch!** 🚀
