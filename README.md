@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Pavel Kalaš**!
 
-I'm an **18-year-old software developer** from **Poděbrady, Czech Republic**, specializing in creating applications and websites. Currently, I’m advancing my skills in **C#** through a course on [itnetwork.cz](https://itnetwork.cz). I'm passionate about experimenting with new technologies and developing innovative projects.
+I'm an 19-year-old software developer from Poděbrady, Czech Republic, specializing in creating applications and websites. I've successfully completed a C# course on itnetwork.cz and am passionate about experimenting with new technologies and developing innovative projects.
 
 ---
 
