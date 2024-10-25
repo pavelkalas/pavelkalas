@@ -55,6 +55,26 @@ I'm an **18-year-old software developer** from **Poděbrady, Czech Republic**, s
         <p>Cybersecurity</p>
         <img src="https://github.com/pavelkalas/pavelkalas/blob/main/CYBERSECURITY_CERTIFICATE.png" alt="Cybersecurity" width="400"/>
       </td>
+       <td align="center">
+        <p>ASP.NET</p>
+        <img src="https://github.com/pavelkalas/pavelkalas/blob/main/asp_net_certifikat.png" alt="ASP.NET" width="400"/>
+      </td>
+    </tr>
+     <tr>
+      <td align="center">
+        <p>JavaScript basics</p>
+        <img src="https://github.com/pavelkalas/pavelkalas/blob/main/basics_javascript_certifikat.png?raw=true" alt="JavaScript basics" width="400"/>
+      </td>
+       <td align="center">
+        <p>Bootstrap - CSS Framework</p>
+        <img src="https://github.com/pavelkalas/pavelkalas/blob/main/bootstrap_certifikat.png?raw=true" alt="Bootstrap" width="400"/>
+      </td>
+    </tr>
+     <tr>
+      <td align="center">
+        <p>SQL / MSSQL / MYSQL</p>
+        <img src="https://github.com/pavelkalas/pavelkalas/blob/main/sql_certifikat.png?raw=true" alt="SQL/MSSQL/MYSQL" width="400"/>
+      </td>
     </tr>
   </table>
 </div>
