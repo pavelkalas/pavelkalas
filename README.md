@@ -5,8 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Pavel%20Kala%C5%A1&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Reverse%20Engineer%20%E2%80%A2%20Infrastructure%20Architect&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=42&lines=Building+and+breaking+things+since+2018;6%2B+years+crafting+full-stack+apps;Reverse+engineering+%26+security+research;Designing+resilient+infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=42&lines=Building+and+breaking+things+since+2018;Reverse+engineering+%26+security+research;Game+modding+since+2021;DLL+injection+%26+runtime+hooking" alt="Typing SVG" />
 
 <br/>
 <br/>
