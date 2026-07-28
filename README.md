@@ -77,9 +77,9 @@ Aktuálně pracuji na projektu **[aster-core](https://github.com/pavelkalas/aste
 
 ## `~` projekty
 
-<!-- SHOWCASE-START -->
+<!-- REPOS-LIST:START -->
 <!-- Sem se automaticky vygeneruje seznam repozitářů -->
-<!-- SHOWCASE-END -->
+<!-- REPOS-LIST:END -->
 
 <br />
 
