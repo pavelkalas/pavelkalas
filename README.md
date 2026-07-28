@@ -7,10 +7,10 @@
 <a href="https://pavelkalas.cz">
   <img src="https://img.shields.io/badge/pavelkalas.cz-35D07A?style=for-the-badge&logo=vercel&logoColor=0A0A0A&labelColor=35D07A&color=35D07A" alt="Web" />
 </a>
-<a href="mailto:contact@pavelkalas.dev">
-  <img src="https://img.shields.io/badge/contact@pavelkalas.dev-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=35D07A&labelColor=0A0A0A&color=161616" alt="E-mail" />
+<a href="mailto:pavelkalas2048@seznam.cz">
+  <img src="https://img.shields.io/badge/pavelkalas2048@seznam.cz-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=35D07A&labelColor=0A0A0A&color=161616" alt="E-mail" />
 </a>
-<a href="https://pavelkalas.cz/swipetakeflight">
+<a href="https://discord.gg/WGfE9N6h58">
   <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=35D07A&labelColor=0A0A0A&color=161616" alt="Discord" />
 </a>
 <a href="https://youtube.com/@pavelkalas69">
@@ -129,6 +129,6 @@ lokalita:    Poděbrady, Česká republika
 pavel@aster:~$ echo "díky za návštěvu" && exit
 ```
 
-<sub>www: <a href="https://pavelkalas.cz">pavelkalas.cz</a> · mail: <a href="mailto:contact@pavelkalas.dev">contact@pavelkalas.dev</a></sub>
+<sub>www: <a href="https://pavelkalas.cz">pavelkalas.cz</a> · mail: <a href="mailto:pavelkalas2048@seznam.cz">pavelkalas2048@seznam.cz</a></sub>
 
 </div>
