@@ -11,21 +11,49 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate repo list
         run: |
           curl -s "https://api.github.com/users/pavelkalas/repos?sort=updated&per_page=100" \
-            | jq -r '.[] | "* [\(.name)](\(.html_url)) - \(.description // "dn popis")"' \
+            | jq -r '.[] | "* [\(.name)](\(.html_url)) - \(.description // "bez popisu")"' \
             > repos.md
+
       - name: Insert into README
         run: |
-          sed -i '/<!-- REPOS-LIST:START -->/,/<!-- REPOS-LIST:END -->/c\<!-- REPOS-LIST:START -->\n'"$(cat repos.md)"'\n<!-- REPOS-LIST:END -->' README.md
+          python3 <<'EOF'
+          from pathlib import Path
+
+          readme = Path("README.md").read_text()
+          repos = Path("repos.md").read_text()
+
+          start = "<!-- REPOS-LIST:START -->"
+          end = "<!-- REPOS-LIST:END -->"
+
+          before = readme.split(start)[0]
+          after = readme.split(end)[1]
+
+          Path("README.md").write_text(
+              before +
+              start + "\n" +
+              repos +
+              "\n" + end +
+              after
+          )
+          EOF
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add README.md
+
           git commit -m "Update repo list" || exit 0
+
           git push
 
