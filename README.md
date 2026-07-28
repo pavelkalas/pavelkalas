@@ -78,9 +78,11 @@ Aktuálně pracuji na projektu **[aster-core](https://github.com/pavelkalas/aste
 ## `~` projekty
 
 <!-- SHOWCASE-START -->
-* [VcLogin](https://github.com/pavelkalas/VcLogin) - DLL-based authentication system for Vietcong 1 Dedicated Servers with account login, nickname protection, guest mode, and server-side injection.
-* [LightweightDllInjector](https://github.com/pavelkalas/LightweightDllInjector) - A lightweight C# DLL injector supporting single injection and automatic injection into newly created processes.
-* [aster-core](https://github.com/pavelkalas/aster-core) - Vlastní 64bit kernel pro x86_64 s bootloaderem, shellem, souborovým systémem a základními nástroji.
+| Projekt | Popis |
+| --- | --- |
+| [VcLogin](https://github.com/pavelkalas/VcLogin) | DLL-based authentication system for Vietcong 1 Dedicated Servers with account login, nickname protection, guest mode, and server-side injection. |
+| [LightweightDllInjector](https://github.com/pavelkalas/LightweightDllInjector) | A lightweight C# DLL injector supporting single injection and automatic injection into newly created processes. |
+| [aster-core](https://github.com/pavelkalas/aster-core) | Vlastní 64bit kernel pro x86_64 s bootloaderem, shellem, souborovým systémem a základními nástroji. |
 
 <!-- SHOWCASE-END -->
 
