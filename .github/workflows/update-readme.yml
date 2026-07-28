@@ -1,4 +1,4 @@
-name: Update README with repos
+name: Update README with showcase repos
 
 on:
   schedule:
@@ -13,35 +13,52 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate repo list
+      - name: Generate showcase repo list
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -s "https://api.github.com/users/pavelkalas/repos?sort=updated&per_page=100" \
-            | jq -r '.[] | "* [\(.name)](\(.html_url)) - \(.description // "bez popisu")"' \
-            > repos.md
+          curl \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -s "https://api.github.com/users/pavelkalas/repos?sort=updated&per_page=100" \
+          | jq -r '
+              .[] |
+              select(.topics | index("showcase")) |
+              "* [" + .name + "](" + .html_url + ") - " + (.description // "bez popisu")
+            ' > repos.md
 
-      - name: Insert into README
+      - name: Insert showcase repos into README
         run: |
           python3 <<'EOF'
           from pathlib import Path
 
-          readme = Path("README.md").read_text()
-          repos = Path("repos.md").read_text()
+          readme_path = Path("README.md")
+          repos_path = Path("repos.md")
 
-          start = "<!-- REPOS-LIST:START -->"
-          end = "<!-- REPOS-LIST:END -->"
+          readme = readme_path.read_text()
+          repos = repos_path.read_text()
 
-          before = readme.split(start)[0]
-          after = readme.split(end)[1]
+          start = "<!-- SHOWCASE-START -->"
+          end = "<!-- SHOWCASE-END -->"
 
-          Path("README.md").write_text(
+          if start not in readme or end not in readme:
+              raise Exception("README.md neobsahuje SHOWCASE markery")
+
+          before, rest = readme.split(start, 1)
+          _, after = rest.split(end, 1)
+
+          readme_path.write_text(
               before +
-              start + "\n" +
+              start +
+              "\n" +
               repos +
-              "\n" + end +
+              "\n" +
+              end +
               after
           )
           EOF
@@ -53,7 +70,6 @@ jobs:
 
           git add README.md
 
-          git commit -m "Update repo list" || exit 0
+          git commit -m "Update showcase repositories" || exit 0
 
           git push
-
