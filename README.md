@@ -77,9 +77,17 @@ Aktuálně pracuji na projektu **[aster-core](https://github.com/pavelkalas/aste
 
 ## `~` projekty
 
-<!-- SHOWCASE-START -->
-<!-- Sem se automaticky vygeneruje seznam repozitářů -->
-<!-- SHOWCASE-END -->
+<!-- REPOS-LIST:START -->
+* [pavelkalas](https://github.com/pavelkalas/pavelkalas) - Something about me.
+* [VcLogin](https://github.com/pavelkalas/VcLogin) - DLL-based authentication system for Vietcong 1 Dedicated Servers with account login, nickname protection, guest mode, and server-side injection.
+* [LightweightDllInjector](https://github.com/pavelkalas/LightweightDllInjector) - A lightweight C# DLL injector supporting single injection and automatic injection into newly created processes.
+* [aster-core](https://github.com/pavelkalas/aster-core) - Vlastní 64bit kernel pro x86_64 s bootloaderem, shellem, souborovým systémem a základními nástroji.
+* [OmniNexus](https://github.com/pavelkalas/OmniNexus) - OmniNexus je Forge mod pro Minecraft 1.12.2. Je určený pro soukromé servery s kamarády, ale kód je veřejný pro možnost rozšíření a úprav.
+* [kernel-from-scratch](https://github.com/pavelkalas/kernel-from-scratch) - A custom operating system written from scratch in C and x86 Assembly.
+* [samp-reconnect-tool-dev](https://github.com/pavelkalas/samp-reconnect-tool-dev) - Fast hotkey-based reconnect tool for SA-MP that lets you instantly rejoin servers without restarting the game.
+* [VC2Starter](https://github.com/pavelkalas/VC2Starter) - Configuration and fix tool for Vietcong 2 with hardware rendering support, CD key fix, intro skip, FPS limiter, and FPS display.
+
+<!-- REPOS-LIST:END -->
 
 <br />
 
