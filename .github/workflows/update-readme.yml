@@ -22,6 +22,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          echo "| Projekt | Popis |" > repos.md
+          echo "| --- | --- |" >> repos.md
+
           curl \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer $GH_TOKEN" \
@@ -29,8 +32,8 @@ jobs:
           | jq -r '
               .[] |
               select(.topics | index("showcase")) |
-              "* [" + .name + "](" + .html_url + ") - " + (.description // "bez popisu")
-            ' > repos.md
+              "| [" + .name + "](" + .html_url + ") | " + (.description // "bez popisu" | gsub("\\|"; "\\|")) + " |"
+            ' >> repos.md
 
       - name: Insert showcase repos into README
         run: |
