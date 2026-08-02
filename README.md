@@ -80,6 +80,7 @@ Aktuálně pracuji na projektu **[aster-core](https://github.com/pavelkalas/aste
 <!-- SHOWCASE-START -->
 | Projekt | Popis |
 | --- | --- |
+| [PKX-Microkernel](https://github.com/pavelkalas/PKX-Microkernel) | Jednoduchý a praktický microkernel pro AVR: kernel, scheduler, drivery a rychlé nasazení na Arduino Nano. |
 | [VcLogin](https://github.com/pavelkalas/VcLogin) | DLL-based authentication system for Vietcong 1 Dedicated Servers with account login, nickname protection, guest mode, and server-side injection. |
 | [LightweightDllInjector](https://github.com/pavelkalas/LightweightDllInjector) | A lightweight C# DLL injector supporting single injection and automatic injection into newly created processes. |
 | [aster-core](https://github.com/pavelkalas/aster-core) | Vlastní 64bit kernel pro x86_64 s bootloaderem, shellem, souborovým systémem a základními nástroji. |
